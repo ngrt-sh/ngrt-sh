@@ -1,6 +1,6 @@
 ![banner](https://github.com/ngrt-sh/ngrt-sh/blob/main/Github%20Banner.png?raw=true)
 
-[![X](https://github.com/ngrt-sh/ngrt-sh/blob/main/X%20btn.png?raw=true)](https://x.com/ngrt_sh) [![Website](https://github.com/ngrt-sh/ngrt-sh/blob/main/Website%20btn.png?raw=true)](https://ngrt.ovh/) [![Mail](https://github.com/ngrt-sh/ngrt-sh/blob/main/Mail%20btn.png?raw=true)](mailto:me@ngrt.ovh)
+[![X](https://github.com/ngrt-sh/ngrt-sh/blob/main/X.png?raw=true)](https://x.com/ngrt_sh) [![Website](https://github.com/ngrt-sh/ngrt-sh/blob/main/Website%20btn.png?raw=true)](https://ngrt.ovh/) [![Mail](https://github.com/ngrt-sh/ngrt-sh/blob/main/Mail%20btn.png?raw=true)](mailto:me@ngrt.ovh)
 
 ---
 
