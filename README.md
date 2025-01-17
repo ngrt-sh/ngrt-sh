@@ -8,9 +8,7 @@
 
 Hi there ✌ You can find here some of my project and automation scripts for Linux (Windows can come here later)
 
-> Currently working on: **tempo-autoshutdown**
-> 
-> *Repo available soon...*
+> Currently working on: [**tempo-autoshutdown**](https://github.com/ngrt-sh/tempo-autoshutdown)
 
 ---
 
