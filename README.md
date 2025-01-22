@@ -16,7 +16,7 @@ Hi there ✌ You can find here some of my project and automation scripts for Lin
 
 | Computer (Lenovo V15 G3)         | Tablet and Smartphone                          | Accessories   |
 |----------------------------------|------------------------------------------------|---------------|
-| - Debian 12 (KDE)                | - Apple iPhone 11                              | AirPods Pro 2 |
+| - Debian 12 (GNOME)              | - Apple iPhone 11                              | AirPods Pro 2 |
 | - AMD Ryzen 5 5625U              | - Apple iPad 10th gen (aka my second computer) |
 | - 16 GB of RAM
 | - 2x 500 GB SSD (PCIe & SATA)
