@@ -41,4 +41,4 @@ I have also a Proxmox server where I run my VMs and CTs.
 
 Here some technologies I use :
 
-<img src="https://github.com/ngrt-sh/ngrt-sh/blob/main/Used%20technos.png?raw=true" alt="Technos" width="300"/>
+<img src="https://raw.githubusercontent.com/ngrt-sh/ngrt-sh/refs/heads/main/Used%20technosV2.png" alt="Technos" width="300"/>
