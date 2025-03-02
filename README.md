@@ -1,6 +1,6 @@
 ![banner](https://github.com/ngrt-sh/ngrt-sh/blob/main/Github%20Banner.png?raw=true)
 
-[![X](https://github.com/ngrt-sh/ngrt-sh/blob/main/X.png?raw=true)](https://x.com/ngrt_sh) [![Website](https://github.com/ngrt-sh/ngrt-sh/blob/main/Website%20btn.png?raw=true)](https://ngrt.ovh/) [![Mail](https://github.com/ngrt-sh/ngrt-sh/blob/main/Mail%20btn.png?raw=true)](mailto:me@ngrt.ovh)
+[![X](https://github.com/ngrt-sh/ngrt-sh/blob/main/X.png?raw=true)](https://x.com/ngrt_sh) [![Website](https://github.com/ngrt-sh/ngrt-sh/blob/main/Website%20btn.png?raw=true)](https://ngrt.fr/) [![Mail](https://github.com/ngrt-sh/ngrt-sh/blob/main/Mail%20btn.png?raw=true)](mailto:me@ngrt.fr)
 
 ---
 
@@ -36,8 +36,9 @@ I have also a Proxmox server where I run my VMs and CTs.
 | Memory                                              | 16 GB of RAM                                                  |
 | SSD (Proxmox)                                       | PNY 250 GB SATA SSD                                           |
 | 1st HDD (In passthrough with my Ubuntu Server VM)   | Toshiba 2.5" 1 TB HDD                                         |
-| 2nd HDD (same)                                      | Seagate Barracuda 3.5" 1 TB (used for Nextcloud)              |
-| 3th HDD (same)                                      | (same model but used for my backups)                          |
+| 2nd HDD (Used with stripe RAID with TrueNAS VM)     | Seagate Barracuda 3.5" 1 TB HDD                               |
+| 3th HDD (same)                                      | Seagate Barracuda 3.5" 1 TB HDD                               |
+| 4th HDD (same)                                      |  Seagate Barracuda 3.5" 1 TB HDD                              |
 
 Here some technologies I use :
 
